@@ -1,0 +1,21 @@
+{
+	"name": "com.src.mathkit",
+	"displayName": "MathKit",
+	"description": "gameMathKit",
+	"version": "0.0.1",
+	"unity": "2017.1",
+	"author": {
+		"name": "TM7",
+		"email": "email@qq.com",
+		"url": "https://github.com/"
+	},
+	"dependencies": {
+	},
+	"keywords": [
+		"Game",
+		"unity",
+		"runtimes",
+		"mathkit"
+	],
+	"license": "SEE LICENSE IN LICENSE"
+}
